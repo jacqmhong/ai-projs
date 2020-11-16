@@ -1,6 +1,6 @@
 # Projects on the Core Ideas of Artificial Intelligence 
 
-These projects use the classic Pacman game to practice foundational AI concepts, such as search algorithms, multiagent minimax and expectimax, reinforcement learning, hidden markov models, classification, etc. Only files that are edited are included. These files contain minimal starter code.
+These projects use the classic Pacman game to practice foundational AI concepts, such as search algorithms, multiagent minimax and expectimax, reinforcement learning, hidden markov models, classification, etc. Only files that are edited are included. These files contain minimal starter code by CS 188 staff.
 
 Projects in chronological order:
 1) Search: depth-first, breadth-first, uniform cost, and A* search
